@@ -1,0 +1,7 @@
+env
+
+src/__pycache__
+
+src/routes/__pycache__ 
+
+src/validations/__pycache__
